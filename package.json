@@ -1,0 +1,24 @@
+{
+  "name": "greengarden-1757265563124",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-slick": "latest",
+    "slick-carousel": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
