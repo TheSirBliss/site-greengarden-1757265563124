@@ -16,7 +16,7 @@
     "slick-carousel": "latest"
   },
   "devDependencies": {
-    "@tailwindcss/postcss7": "latest",
+    "@tailwindcss/postcss": "latest",
     "autoprefixer": "latest",
     "postcss": "latest",
     "tailwindcss": "latest"
